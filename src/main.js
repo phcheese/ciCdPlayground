@@ -9,7 +9,7 @@ new App({
     // or an array of bullet points
 
     // What do you associate with the term 'CI/CD'?
-    associations: ["Continuous Integration / Continuous Development", "Testing"],
+    associations: ["Continuous Integration / Continuous Deployment", "Testing"],
     // Which CI/CD tools do you use in your project?
     tools: "None!",
     // What do you want to learn in this workshop?
